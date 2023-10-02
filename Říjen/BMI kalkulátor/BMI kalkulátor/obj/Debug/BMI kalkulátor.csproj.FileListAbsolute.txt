@@ -1,0 +1,11 @@
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\bin\Debug\BMI kalkulátor.exe.config
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\bin\Debug\BMI kalkulátor.exe
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\bin\Debug\BMI kalkulátor.pdb
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\obj\Debug\BMI kalkulátor.csproj.AssemblyReference.cache
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\obj\Debug\BMI kalkulátor.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\obj\Debug\BMI_kalkulátor.Form1.resources
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\obj\Debug\BMI_kalkulátor.Properties.Resources.resources
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\obj\Debug\BMI kalkulátor.csproj.GenerateResource.cache
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\obj\Debug\BMI kalkulátor.csproj.CoreCompileInputs.cache
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\obj\Debug\BMI kalkulátor.exe
+C:\Users\rohacekd\source\repos\BMI kalkulátor\BMI kalkulátor\obj\Debug\BMI kalkulátor.pdb
