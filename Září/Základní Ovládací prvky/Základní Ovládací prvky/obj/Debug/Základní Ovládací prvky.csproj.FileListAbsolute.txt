@@ -1,0 +1,22 @@
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\bin\Debug\Základní Ovládací prvky.exe.config
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\bin\Debug\Základní Ovládací prvky.exe
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\bin\Debug\Základní Ovládací prvky.pdb
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.csproj.AssemblyReference.cache
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní_Ovládací_prvky.Form1.resources
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní_Ovládací_prvky.Properties.Resources.resources
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.csproj.GenerateResource.cache
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.csproj.CoreCompileInputs.cache
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.exe
+C:\Users\rohacekd\source\repos\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.pdb
+D:\Základní Ovládací prvky\Základní Ovládací prvky\bin\Debug\Základní Ovládací prvky.exe.config
+D:\Základní Ovládací prvky\Základní Ovládací prvky\bin\Debug\Základní Ovládací prvky.exe
+D:\Základní Ovládací prvky\Základní Ovládací prvky\bin\Debug\Základní Ovládací prvky.pdb
+D:\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.csproj.AssemblyReference.cache
+D:\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.csproj.SuggestedBindingRedirects.cache
+D:\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní_Ovládací_prvky.Form1.resources
+D:\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní_Ovládací_prvky.Properties.Resources.resources
+D:\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.csproj.GenerateResource.cache
+D:\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.csproj.CoreCompileInputs.cache
+D:\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.exe
+D:\Základní Ovládací prvky\Základní Ovládací prvky\obj\Debug\Základní Ovládací prvky.pdb
