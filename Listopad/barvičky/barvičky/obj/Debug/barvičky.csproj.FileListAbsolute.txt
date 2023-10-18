@@ -19,3 +19,14 @@ E:\barvičky\barvičky\obj\Debug\barvičky.csproj.GenerateResource.cache
 E:\barvičky\barvičky\obj\Debug\barvičky.csproj.CoreCompileInputs.cache
 E:\barvičky\barvičky\obj\Debug\barvičky.exe
 E:\barvičky\barvičky\obj\Debug\barvičky.pdb
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\bin\Debug\barvičky.exe.config
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\bin\Debug\barvičky.exe
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\bin\Debug\barvičky.pdb
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\obj\Debug\barvičky.csproj.AssemblyReference.cache
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\obj\Debug\barvičky.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\obj\Debug\barvičky.Form1.resources
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\obj\Debug\barvičky.Properties.Resources.resources
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\obj\Debug\barvičky.csproj.GenerateResource.cache
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\obj\Debug\barvičky.csproj.CoreCompileInputs.cache
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\obj\Debug\barvičky.exe
+C:\Users\rohacekd\Desktop\Programko\Listopad\barvičky\barvičky\obj\Debug\barvičky.pdb
