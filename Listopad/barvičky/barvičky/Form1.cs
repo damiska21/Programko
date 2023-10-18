@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Net.Mime.MediaTypeNames;
 using static System.Windows.Forms.AxHost;
 
 namespace barvičky
@@ -124,7 +125,9 @@ namespace barvičky
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
             //Graphics graphics = Graphics.FromImage(pictureBox1.Image);
-            Pen pero = new Pen(Color.FromArgb(255, red, green, blue));
+            Bitmap b = (Bitmap)pictureBox1.Image;
+            pictureBox1.Image = b;
+            Pen pero = new Pen(Color.FromArgb(255, red, green, blue), hScrollBar5.Value);
             if (e.Button == MouseButtons.Left && startX == 0)
             {
                 startX = e.X;
