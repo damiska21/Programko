@@ -121,16 +121,9 @@ namespace barvičky
 
         int startX = 0;
         int startY = 0;
-        int bb = 0;
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
             //Graphics graphics = Graphics.FromImage(pictureBox1.Image);
-            if (bb == 0)
-            {
-                Bitmap b = new Bitmap(pictureBox1.Image);
-                pictureBox1.Image = b;
-                bb++;
-            }
             Pen pero = new Pen(Color.FromArgb(255, red, green, blue));
             if (e.Button == MouseButtons.Left && startX == 0)
             {
