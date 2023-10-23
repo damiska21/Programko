@@ -1,0 +1,11 @@
+C:\Users\rohacekd\source\repos\list box\list box\bin\Debug\list box.exe.config
+C:\Users\rohacekd\source\repos\list box\list box\bin\Debug\list box.exe
+C:\Users\rohacekd\source\repos\list box\list box\bin\Debug\list box.pdb
+C:\Users\rohacekd\source\repos\list box\list box\obj\Debug\list box.csproj.AssemblyReference.cache
+C:\Users\rohacekd\source\repos\list box\list box\obj\Debug\list box.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohacekd\source\repos\list box\list box\obj\Debug\list_box.Form1.resources
+C:\Users\rohacekd\source\repos\list box\list box\obj\Debug\list_box.Properties.Resources.resources
+C:\Users\rohacekd\source\repos\list box\list box\obj\Debug\list box.csproj.GenerateResource.cache
+C:\Users\rohacekd\source\repos\list box\list box\obj\Debug\list box.csproj.CoreCompileInputs.cache
+C:\Users\rohacekd\source\repos\list box\list box\obj\Debug\list box.exe
+C:\Users\rohacekd\source\repos\list box\list box\obj\Debug\list box.pdb
