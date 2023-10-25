@@ -53,10 +53,16 @@ namespace list_box
             if (listBox1.SelectedIndex != 0)
             {
                 button1.Enabled = true;
+            }else
+            {
+                button1.Enabled=false;
             }
             if (listBox1.SelectedIndex != listBox1.Items.Count-1)
             {
                 button2.Enabled = true;
+            }else
+            {
+                button2.Enabled=false;
             }
         }
 
