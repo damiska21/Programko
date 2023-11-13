@@ -31,3 +31,14 @@ E:\piškvory\piškvory\obj\Debug\piškvory.csproj.GenerateResource.cache
 E:\piškvory\piškvory\obj\Debug\piškvory.csproj.CoreCompileInputs.cache
 E:\piškvory\piškvory\obj\Debug\piškvory.exe
 E:\piškvory\piškvory\obj\Debug\piškvory.pdb
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\bin\Debug\piškvory.exe.config
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\bin\Debug\piškvory.exe
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\bin\Debug\piškvory.pdb
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\obj\Debug\piškvory.csproj.AssemblyReference.cache
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\obj\Debug\piškvory.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\obj\Debug\piškvory.Form1.resources
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\obj\Debug\piškvory.Properties.Resources.resources
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\obj\Debug\piškvory.csproj.GenerateResource.cache
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\obj\Debug\piškvory.csproj.CoreCompileInputs.cache
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\obj\Debug\piškvory.exe
+C:\Users\rohacekd\Documents\GitHub\Programko\Listopad\piškvory\piškvory\obj\Debug\piškvory.pdb

@@ -149,6 +149,7 @@ namespace piškvory
                         winX1 = (i) - 1; winY1 = (j);
                         for (int l = 0; l < 5; l++)
                         {
+                
                 try
                 {
                     if (pole[i - l, j + l] == pole[i, j])
@@ -164,7 +165,7 @@ namespace piškvory
             return new int[1] { -10 };
         }
         //tutoriál jsme fakt dělat nemuseli, ale já se nudim xd
-        //všechno pod tímhle kromě posledních dvou závorek je k hovnu
+        //všechno pod tímhle kromě posledních dvou závorek je k ničemu
         private void button1_Click(object sender, System.EventArgs e)
         {
             #region Kód generovaný retardem co nemá co na práci
@@ -236,6 +237,12 @@ namespace piškvory
             e.Graphics.DrawEllipse(new Pen(Color.Red), new Rectangle(2 * 21, 1 * 21, 21, 21));
 
             e.Graphics.DrawLine(new Pen(Color.Blue, 4), 0 * 21 + 10, 0 * 21 + 10, ((4 + 1) * 21) - 10, ((4 + 1) * 21) - 10);
+        }
+
+        private void button2_Click(object sender, System.EventArgs e)
+        {
+            pole = new string[20, 20];
+            grid1.Refresh();
         }
     }
 }
