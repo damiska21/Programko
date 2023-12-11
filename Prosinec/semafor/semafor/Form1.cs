@@ -23,7 +23,7 @@ namespace semafor
                     panel1.BackColor = Color.Red;//červená
                     break;
                 case 1:
-                    panel2.BackColor = Color.Orange; 
+                    panel2.BackColor = Color.Orange;
                     break;
                 case 2:
                     reset();
@@ -47,6 +47,45 @@ namespace semafor
             panel1.BackColor = Color.Black;
             panel2.BackColor = Color.Black;
             panel3.BackColor = Color.Black;
+        }
+
+        int time = 0;
+        int seconds = 0;
+        int minutes = 0;
+        int hours = 0;
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            time += 47;//zvyšuje milisekundy o 47 protože tak často se spouští tahle funkce
+            if (time >=1000){seconds++;time -= 1000; }//zvyšuje sekundy
+            if (seconds >= 60) { minutes++; seconds -= 60;}
+            if (minutes >= 60) { minutes -= 60; hours++; }
+            //ten dolar dělá to že můžu do {} zapisovat konstanty a počítají se jako string
+            label1.Text = $"{hours}:{minutes}:{seconds}:{time}"; //nastavuje label
+        }
+        //reset časovače
+        private void button3_Click(object sender, EventArgs e)
+        {
+            time = 0;
+            seconds = 0;
+            minutes = 0;
+            hours = 0;
+            label1.Text = $"{hours}:{minutes}:{seconds}:{time}";//aby se na stisknutí změnili čísla na 0
+        }
+        //spouštění a vypínaní časovače
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (!timer2.Enabled)
+            {
+                //když není zaplý tak ho zapne a přepne nápis tlačítka na Zastavit
+                timer2.Enabled = true;
+                button1.Text = "Zastavit";
+            }
+            else
+            {
+                timer2.Enabled = false;
+                button1.Text = "Spustit";
+            }
         }
     }
 }
